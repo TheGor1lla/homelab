@@ -50,7 +50,7 @@ spec:
     service:
       main:
         type: LoadBalancer
-        externalIPs: ["${METALLB_HASS_ADDR}"]
+        externalIPs: "${METALLB_HASS_ADDR}"
         externalTrafficPolicy: Local
         ports:
           http:
