@@ -77,5 +77,4 @@ spec:
         enabled: true
         type: pvc
         mountPath: /config
-        size: 5Gi
-        storageClass: local-path
+        existingClaim: homeassistant-config
