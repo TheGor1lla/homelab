@@ -72,11 +72,10 @@ spec:
         tls:
           - hosts:
               - *host
-    volumeClaimTemplates:
-      - name: config
+    persistence:
+      config:
+        enabled: true
+        type: pvc
         mountPath: /config
-        accessMode: ReadWriteOnce
         size: 5Gi
-        storageClassName: local-path
-        labels:
-          snapshot.home.arpa/enabled: "true"
+        storageClass: local-path
