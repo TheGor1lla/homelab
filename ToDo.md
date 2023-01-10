@@ -10,6 +10,3 @@
 * Paperless-ngx
 * PiHole/Blocky
 * Recipe Manager (Tandoori?)
-
-# Misc
-* style [Hajimari](kubernetes/apps/default/hajimari/app/helmrelease.yaml)
