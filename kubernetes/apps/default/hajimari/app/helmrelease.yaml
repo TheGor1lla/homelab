@@ -32,7 +32,7 @@ spec:
       showBookmarkGroups: false
       showGlobalBookmarks: false
       showAppUrls: false
-      groups:
+      globalBookmarks:
         - group: cluster
           bookmarks:
             - name: homelab
