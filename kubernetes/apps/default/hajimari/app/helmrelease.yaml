@@ -32,6 +32,13 @@ spec:
       showBookmarkGroups: false
       showGlobalBookmarks: false
       showAppUrls: false
+      bookmarks:
+        - group: cluster
+          bookmarks:
+            - name: homelab
+              icon: mdi:github
+              url: https://github.com/TheGor1lla/homelab
+              targetBlank: false
       defaultEnable: true
       namespaceSelector:
         matchNames:
