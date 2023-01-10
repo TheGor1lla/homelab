@@ -1,14 +1,15 @@
 # Apps:
-* Paperless-ngx
+* [Awesome Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - hat auch ne sysadmin Seite
 * Accounting App
-* Recipe Manager (Tandoori?)
-* https://github.com/awesome-selfhosted/awesome-selfhosted hat auch ne sysadmin Seite
 * Borg Backup
-* Keycloak/Authentik
-* Jellyfin
-* PiHole/Blocky
-* Homeassistent
+* DNS
 * Heimdall
+* Homeassistent
+* Jellyfin
+* Keycloak/Authentik
+* Paperless-ngx
+* PiHole/Blocky
+* Recipe Manager (Tandoori?)
 
 # Misc
-* README aktualisieren
+* style [Hajimari](kubernetes/apps/default/hajimari/app/helmrelease.yaml)
