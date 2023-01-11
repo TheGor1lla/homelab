@@ -45,6 +45,7 @@ spec:
           - default
           - monitoring
           - home-automation
+          - housekeeping
     ingress:
       main:
         enabled: true
