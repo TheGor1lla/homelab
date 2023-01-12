@@ -9,4 +9,3 @@
 * Keycloak/Authentik
 * Paperless-ngx
 * PiHole/Blocky
-* Recipe Manager (Tandoori?)
