@@ -30,10 +30,22 @@ This is home to my personal Kubernetes cluster. [Flux](https://github.com/fluxcd
 | Fujitsu Esprimo Q956 | 1     | 120GB        | -                           | 8GB | Ubuntu           | Kubernetes Master |
 | Xiaomi Mijia 2       | 8     | -            | -                           | -   | [Custom](https://pvvx.github.io/ATC_MiThermometer/TelinkMiFlasher.html)         | Monitoring        |
 
+## 📝 ToDo
+
+### Apps:
+- [ ] [Awesome Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [ ] Accounting App
+- [ ] Borg Backup
+- [ ] Heimdall
+- [ ] Home-assistent config
+- [ ] Jellyfin
+- [ ] Keycloak/Authentik
+- [ ] Paperless-ngx
+- [ ] Wildcard Certs
+
 ## 👉 Useful Links
 - [k8s-at-home-search](https://nanne.dev/k8s-at-home-search/)
 - [Initial Setup Guide](SETUP.md)
-- [My ToDo List](ToDo.md)
 
 ## 🤝 Special Thanks
 [onedr0p](https://github.com/onedr0p) for the awesome template and the whole [Kubernetes@Home](https://discord.gg/k8s-at-home) community!
