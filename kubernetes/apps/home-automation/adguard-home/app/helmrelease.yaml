@@ -38,7 +38,9 @@ spec:
       - "--no-check-update"
     service:
       main:
-        primary: true
+        type: LoadBalancer
+        externalIPs: ["${METALLB_AGH_ADDR}"]
+        externalTrafficPolicy: Local
         ports:
           http:
             port: 3000
