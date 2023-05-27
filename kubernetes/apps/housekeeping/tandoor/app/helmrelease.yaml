@@ -9,7 +9,7 @@ spec:
   chart:
     spec:
       chart: tandoor
-      version: 0.7.1
+      version: 0.7.3
       sourceRef:
         kind: HelmRepository
         name: gabe565
